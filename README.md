@@ -7,6 +7,8 @@
    Di sini saya mamakai topologi yang menggunakan eth2.  
 ![oy](topologi1.jpeg)
 
+    Kenapa saya memilih eth2 karena 
+
     jika kalian baru pertama kali login, maka akan muncul tampilan seperti ini:
 ![oy](dp.PNG)
 

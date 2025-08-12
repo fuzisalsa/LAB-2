@@ -1,5 +1,6 @@
 
 # LAB-2
+12 agustus 2025
 # Default configuration mikrotik
     Assalamu’alaikum Warrohmatullohi Wabarokatuh
 

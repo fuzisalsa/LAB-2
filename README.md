@@ -47,6 +47,7 @@
 
 # Kesimpulan 
         
-    Konfigurasi default Mikrotik memudahkan pengguna baru untuk memulai konfigurasi awal, namun penting untuk segera mengubah pengaturan default tersebut demi keamanan dan kinerja jaringan yang optimal. 
+    Konfigurasi default Mikrotik memudahkan pengguna baru untuk memulai konfigurasi awal,   
+    namun penting untuk segera mengubah pengaturan default tersebut demi keamanan dan kinerja jaringan yang optimal. 
 
     

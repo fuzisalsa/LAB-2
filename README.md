@@ -17,7 +17,7 @@
 
     Jika kalian baru pertama kali login, maka akan muncul tampilan seperti ini :  
     
-![oy](dp4.PNG)
+![oy](dp.PNG)
 
     Di dalam gambar tersebut berisi apa saja konfigurasi default mikrotik.  
     Klik OK  

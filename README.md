@@ -11,7 +11,8 @@
 
 ![oy](dp1.PNG)
 
-    waw, ternyata tidak bisa mengakses dengan port ether1, karena Saat pertamakali menjalankan Mikrotik dengan default configuration,  
+    waw, ternyata tidak bisa mengakses dengan port ether1,  
+    karena Saat pertamakali menjalankan Mikrotik dengan default configuration,    
     firewall memblokir akses selain LAN, sedangkan port ether1 adalah WAN.  
     Bisa dilihat di Firewalls > Filter Rules.  
     Baiklah kita menggunakan topologi eth2.  
